@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm MUKUL SARSWAT</h1>
-<h3 align="center">A passionate Software and Hardware developer with backgroung in ECE from India</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm MUKUL SARSWAT</h1>
+<h3 align="center">A passionate Software and Hardware developer with a background in ECE from India</h3>
+
 
 - 🔭 I’m currently working on **Impelementation of UART**
 
@@ -11,9 +12,9 @@
 
 - 💬 Ask me about **C++,OOPs,Digital Electronics,Verilog,Embedded C system,CMOS**
 
-- 📫 How to reach me **mk2739sarswat@gmail.com**
+- 📫 How to reach me **[mail](mailto:mk2739sarswat@gmail.com)**
 
-- 📄 Know about my experiences [https://photos.app.goo.gl/7Rihe5otynR8CyRF9](https://photos.app.goo.gl/7Rihe5otynR8CyRF9)
+- 📄 Know about my experiences [Resume](https://photos.app.goo.gl/7Rihe5otynR8CyRF9).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
