@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software and Hardware developer with a background in ECE from India</h3>
 
 
-- 🔭 I’m currently working on **Impelementation of UART**
+- 🔭 I’m currently working on **Adaptive Traffic Light Controller**
 
 - 🌱 I’m currently learning **OS and RTL to GDSII flow**
 
