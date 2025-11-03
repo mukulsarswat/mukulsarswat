@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on [RISC-V Collab](https://github.com/riscv-collab)
 
-- 🤝 I’m looking for help with [Payroll and Attendance Manager](https://github.com/mukulsarswat/Payroll_and_Attendance_Manager.git)
+- 🤝 I’m looking for help with [Adaptive Traffic Light Controller](https://github.com/mukulsarswat/Smart_Traffic_Light_Controller)
 
-- 💬 Ask me about **C++,OOPs,Digital Electronics,Verilog,Embedded C system,CMOS**
+- 💬 Ask me about **C++,OOPs,Digital Electronics,Verilog,Embedded C system,CMOS,DBMS,CN**
 
 - 📫 How to reach me **[mail](mailto:mk2739sarswat@gmail.com)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FIf5LSj_CLQWhGAu03-4gwFWpnDk6y75/view?usp=drive_link).
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DLeeRVmEqK0H3tX23raHaLQRVJI_Whw2/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
