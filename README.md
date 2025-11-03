@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Impelementation of UART**
 
-- 🌱 I’m currently learning **DBMS and RTL to GDSII flow**
+- 🌱 I’m currently learning **OS and RTL to GDSII flow**
 
 - 👯 I’m looking to collaborate on [RISC-V Collab](https://github.com/riscv-collab)
 
