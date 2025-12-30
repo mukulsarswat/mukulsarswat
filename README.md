@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Software and Hardware developer with a background in ECE from India</h3>
 
 
-- 🔭 I’m currently working on **Adaptive Traffic Light Controller**
+- 🔭 I’m currently working on **Making OS from Scratch**
 
-- 🌱 I’m currently learning **OS and RTL to GDSII flow**
+- 🌱 I’m currently learning **LLD and HLD**
 
-- 👯 I’m looking to collaborate on [RISC-V Collab](https://github.com/riscv-collab)
+- 👯 I’m looking to collaborate on [Krypto Trading Bot](https://github.com/ctubio/Krypto-trading-bot)
 
 - 🤝 I’m looking for help with [Adaptive Traffic Light Controller](https://github.com/mukulsarswat/Smart_Traffic_Light_Controller)
 
-- 💬 Ask me about **C++,OOPs,Digital Electronics,Verilog,Embedded C system,CMOS,DBMS,CN**
+- 💬 Ask me about **C++,OOPs,Digital Electronics,Verilog,Embedded C system,CMOS,DBMS,CN, Operating System **
 
 - 📫 How to reach me **[mail](mailto:mk2739sarswat@gmail.com)**
 
