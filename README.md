@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [Adaptive Traffic Light Controller](https://github.com/mukulsarswat/Smart_Traffic_Light_Controller)
 
-- 💬 Ask me about **C++,OOPs,Digital Electronics,Verilog,Embedded C system,CMOS,DBMS,CN, Operating System **
+- 💬 Ask me about **C++,OOPs,Digital Electronics,Verilog,Embedded C system,CMOS,DBMS,CN, Operating System**
 
 - 📫 How to reach me **[mail](mailto:mk2739sarswat@gmail.com)**
 
