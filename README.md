@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [Adaptive Traffic Light Controller](https://github.com/mukulsarswat/Smart_Traffic_Light_Controller)
 
-- 💬 Ask me about **C++,OOPs,Digital Electronics,Verilog,Embedded C system,CMOS,DBMS,CN, Operating System**
+- 💬 Ask me about **C++,OOPs,Digital Electronics,Verilog,Embedded C system,CMOS,DBMS,CN,Operating System,Python,Pandas,Numpy,Matplot,Seaborn**
 
 - 📫 How to reach me **[mail](mailto:mk2739sarswat@gmail.com)**
 
@@ -24,7 +24,11 @@
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mukuljnjys4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mukuljnjys4/" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulsarswat&show_icons=true&locale=en&layout=compact" alt="mukulsarswat" /></p>
+## 📊 Languages Proficiency
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulsarswat&layout=compact&theme=tokyonight)
+
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mukulsarswat&theme=dark&hide_border=true)
 
