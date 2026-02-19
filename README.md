@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[mail](mailto:mk2739sarswat@gmail.com)**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DLeeRVmEqK0H3tX23raHaLQRVJI_Whw2/view?usp=sharing).
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WI4WF18PFCjfH7a1QAB4Kv8VAkQEvPFj/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
